@@ -1,5 +1,4 @@
 # Removing from repository the /public/ directory it's already available on separate repository 
-
 public/
 
 

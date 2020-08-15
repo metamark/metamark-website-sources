@@ -46,6 +46,8 @@ params:
   navbar:
   - title: Features
     url: /
+  - title: Markdown
+    url: /
   - title: Get MetaMark
     url: https://itunes.apple.com/us/app/telegram/id747648890
     button: true
