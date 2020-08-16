@@ -49,7 +49,7 @@ params:
   - title: License
     url: /
   - title: Sources
-    url: /
+    url: https://cutt.ly/metamark-macos
   - title: Markdown What?
     url: /
   - title: Get MetaMark
@@ -118,17 +118,11 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
+    - link: https://cutt.ly/metamark-macos
       # Icons are from Font Awesome
       icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
-      icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    - link: https://cutt.ly/francesco-ko-fi
+      icon: github
     bulmalogo: true
     quicklinks:
       column1:
