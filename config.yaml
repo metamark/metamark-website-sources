@@ -16,7 +16,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
-  description: 
+  description: MetaMark is a simple open source native macOS Markdown Editor with modern, lightweight GUI, proudly built in objective-C.
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/MetaMark001_cropped001.svg
@@ -113,16 +113,16 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: MetaMark019_cropped001.svg
     # Social Media Title
-    socialmediatitle: Follow Us
+    socialmediatitle: Follow
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://cutt.ly/metamark-macos
       # Icons are from Font Awesome
       icon: github
     - link: https://cutt.ly/francesco-ko-fi
-      icon: github
+      icon: coffee
     bulmalogo: true
     quicklinks:
       column1:
@@ -130,29 +130,13 @@ params:
         links:
         - text: Discover features
           link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Our roadmap
-          link: /
-        - text: AGB
-          link: /agb
       column2:
         title: "Docs"
         links:
         - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
+          link: /agb
       column3:
-        title: "Blog"
+        title: "Get MetaMark"
         links:
-        - text: Latest news
+        - text: on the App Store
           link: /blog/first
-        - text: Tech articles
-          link: /blog/second
