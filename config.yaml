@@ -47,11 +47,11 @@ params:
   - title: Features
     url: /
   - title: License
-    url: /
+    url: /license
   - title: Sources
     url: https://cutt.ly/metamark-macos
-  - title: Markdown What?
-    url: /
+  - title: Markdown
+    url: /markdown
   - title: Get MetaMark
     url: https://itunes.apple.com/us/app/telegram/id747648890
     button: true
