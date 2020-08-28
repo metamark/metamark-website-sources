@@ -117,11 +117,11 @@ params:
     # Social Media Title
     socialmediatitle: Follow
     # Social media links (GitHub, Twitter, etc.). All are optional.
+    # Icons are from Font Awesome
     socialmedia:
     - link: https://cutt.ly/metamark-macos
-      # Icons are from Font Awesome
       icon: github
-    - link: https://cutt.ly/francesco-ko-fi
+    - link: https://cutt.ly/francesco85-buymeacoffee
       icon: coffee
     bulmalogo: true
     quicklinks:
